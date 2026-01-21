@@ -51,6 +51,12 @@ The interface is simple and user-friendly:
 
 ---
 
+## 📸 Screen Preview
+
+![Screen Preview](5135_python_EzrZZn1GGj.png)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a Pull Request if you want to add features like:
